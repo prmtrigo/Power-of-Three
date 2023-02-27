@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Power-of-Three\bin\Debug\net7.0\Power-of-Three.exe
+C:\Users\trigo\Programação\C#\Power-of-Three\bin\Debug\net7.0\Power-of-Three.deps.json
+C:\Users\trigo\Programação\C#\Power-of-Three\bin\Debug\net7.0\Power-of-Three.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Power-of-Three\bin\Debug\net7.0\Power-of-Three.dll
+C:\Users\trigo\Programação\C#\Power-of-Three\bin\Debug\net7.0\Power-of-Three.pdb
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\Power-of-Three.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\Power-of-Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\Power-of-Three.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\Power-of-Three.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\Power-of-Three.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\Power-of-Three.dll
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\refint\Power-of-Three.dll
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\Power-of-Three.pdb
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\Power-of-Three.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Power-of-Three\obj\Debug\net7.0\ref\Power-of-Three.dll
